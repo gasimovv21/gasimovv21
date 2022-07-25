@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @gasimovv21
-- 👀 I’m interested in Prgoramming.
-- 🌱 I’m currently learning Django and C++
-- 💞️ I’m looking to collaborate Microsoft
+- 👋 Hi, I’m Eltun Gasimov
+- 👀 I’m interested in Python, django backend developing.
+- 🌱 I’m currently learning Django
+- 💞️ I’m looking to collaborate in the industry related to the creation of websites
 - 📫 You can contact with me : https://t.me/gas1movv21
 
 <!---
