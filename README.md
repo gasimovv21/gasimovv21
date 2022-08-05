@@ -1,7 +1,15 @@
-- 👋 Hi, I’m Eltun Gasimov
-- 👀 I’m interested in Python, django backend developing.
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate in the industry related to the creation of websites
+- 👋 Hello, I am Eltun Gasimov from Azerbaijan, a novice programmer. I have been writing in the Python programming language for more than 2 years. At the moment, I am deeply interested in the Python Django Backend developer industry.
+
+What I can do:
+· SQLite
+· REST API
+· Django
+· Django Rest Framework
+
+Bad habits:
+· Computer
+· Coffee
+· Rubik's Cube
 - 📫 You can contact with me : https://t.me/gas1movv21
 
 <!---
