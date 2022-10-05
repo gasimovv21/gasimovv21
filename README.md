@@ -10,7 +10,7 @@ Bad habits:
 · Computer
 · Coffee
 · Rubik's Cube
-- 📫 You can contact with me : https://t.me/gas1movv21
+- 📫 You can contact with me : https://t.me/codewitheltun
 
 <!---
 gasimovv21/gasimovv21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
