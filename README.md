@@ -2,15 +2,17 @@
 
 What I can do:
 · SQLite
+· MySql
 · REST API
 · Django
-· Django Rest Framework
+· DRF
+· Docker - Nginx - Gunicorn
 
 Bad habits:
 · Computer
 · Coffee
 · Rubik's Cube
-- 📫 You can contact with me : https://t.me/codewitheltun
+- 📫 You can contact with me : https://t.me/gasimoweltun
 
 <!---
 gasimovv21/gasimovv21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
