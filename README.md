@@ -3,10 +3,11 @@
 What I can do:
 · SQLite
 · MySql
-· REST API
 · Django
 · DRF
-· Docker - Nginx - Gunicorn
+· Docker
+· Git
+· Linux systems
 
 Bad habits:
 · Computer
