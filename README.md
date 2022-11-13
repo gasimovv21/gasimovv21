@@ -10,10 +10,10 @@
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-366895?style=for-the-badge&logo=PostgreSQL&logoColor=FEFBFD)](https://www.postgresql.org/)
 [![Docker](https://img.shields.io/badge/-Docker-2B97E9?style=for-the-badge&logo=Docker&logoColor=FFFFFF)](https://www.docker.com/)
 
-[![Nginx](https://img.shields.io/badge/-Nginx-FFFFFF?style=for-the-badge&logo=Nginx&logoColor=119B44)](https://nginx.org/ru/#gh-dark-mode-only)
+[![Nginx](https://img.shields.io/badge/-Nginx-119B44?style=for-the-badge&logo=Nginx&logoColor=FFFFFF)](https://nginx.org/ru/)
 [![Git](https://img.shields.io/badge/-Git-2E2C2C?style=for-the-badge&logo=Git)](https://git-scm.com/)
 [![JS](https://img.shields.io/badge/-Javascript-2E2C2C?style=for-the-badge&logo=Javascript)](https://www.javascript.com/)
-[![Linux](https://img.shields.io/badge/-Linux-FFFFFF?style=for-the-badge&logo=Linux&logoColor=000)](https://www.linux.org/)
+[![Linux](https://img.shields.io/badge/-Linux-2E2C2C?style=for-the-badge&logo=Linux&logoColor=1C89BB)](https://www.linux.org/)
 
 ## 🔥 Github statistics 🔥
 
