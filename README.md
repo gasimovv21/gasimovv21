@@ -25,4 +25,4 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/gasimoweltun)
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram)](https://www.instagram.com/gasimoweltun/)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=1082BE)](https://www.linkedin.com/in/eltun-gasimov-3b8b65256/)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836)](gasimoweltun@gmail.com)
+[![Gmail](https://img.shields.io/badge/contact-000000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:gasimoweltun@gmail.com)
