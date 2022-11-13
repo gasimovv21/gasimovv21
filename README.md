@@ -6,7 +6,7 @@ My experience includes the following technologies which I'm using:
 · Programming languages: Python | Java
 · Web languages: HTML | CSS 
 · Frameworks and tools: Django | DRF | Rest API
-· CI/CD - Junior
+· CI/CD
 · Databases: PostgreSQL| SQLite | MySQL
 · Repositories: GitHub
 · Operating systems: Linux | Windows
