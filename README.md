@@ -1,6 +1,6 @@
 [![Header](https://github.com/gasimovv21/gasimovv21/blob/main/assets/header.png)](https://github.com/gasimovv21)
 
-## I'm a novice Back-end developer with 1 year experience in web development.Currently I have been writing in the Python programming language for more than 2 years. 😎
+## Hello, my name is Eltun Gasimov, and I am a 19-year-old junior Django backend developer. I am passionate about coding and love to work on projects that challenge me to learn and grow as a developer. My experience in Django has given me a solid foundation in web development, and I am constantly seeking new opportunities to hone my skills. As a backend developer, I enjoy building the server-side of web applications and ensuring that they run smoothly and efficiently. I have experience working with databases, APIs, and integrating different technologies to create seamless user experiences. I am always eager to learn new technologies and programming languages to expand my skill set and become a better developer. I am excited to continue my journey in the tech industry and work with like-minded individuals to create innovative solutions that make a difference. Thank you for taking the time to get to know me, and I look forward to connecting with you.😎
 
 
 ## 💻 Languages and tools 💻
