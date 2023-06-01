@@ -23,6 +23,10 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=gasimovv21)
 
+## 🧠 LeetCode statistics 🧠
+
+![LeetCode Stats](https://leetcode.card.workers.dev/gasimovv21?theme=dark&font=source_code_pro&extension=activity)
+
 ## 📱 Contact with me 📱
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/gasimoweltun)
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram)](https://www.instagram.com/gasimoweltun/)
