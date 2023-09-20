@@ -21,10 +21,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gasimovv21&show_icons=true&count_private=true&theme=kacho_ga)](https://github.com/gasimovv21/)
 
-## 🧠 LeetCode statistics 🧠
-
-![LeetCode Stats](https://leetcode.card.workers.dev/gasimovv21?theme=dark&font=source_code_pro&extension=activity)
-
 ## 📱 Contact with me 📱
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/gasimoweltun)
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram)](https://www.instagram.com/gasimoweltun/)
