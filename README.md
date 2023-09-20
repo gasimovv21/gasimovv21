@@ -22,7 +22,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gasimovv21&show_icons=true&count_private=true&theme=kacho_ga)](https://github.com/gasimovv21/)
 
 ## 📱 Contact with me 📱
-[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/gasimoweltu)
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/gasimovv21)
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram)](https://www.instagram.com/gasimel/)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=1082BE)](https://www.linkedin.com/in/eltun-gasimov-3b8b65256/)
 [![Gmail](https://img.shields.io/badge/contact-000000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:gasimoweltun@gmail.com)
