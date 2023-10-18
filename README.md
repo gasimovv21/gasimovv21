@@ -1,6 +1,6 @@
 [![Header](https://github.com/gasimovv21/gasimovv21/blob/main/assets/header.jpg)](https://github.com/gasimovv21)
 
-## I am passionate about coding and love to work on projects that challenge me to learn and grow as a developer. My experience in Back-end has given me a solid foundation in web development, and I am constantly seeking new opportunities to hone my skills. As a backend developer, I enjoy building the server-side of web applications and ensuring that they run smoothly and efficiently. I have experience working with databases, APIs, and integrating different technologies to create seamless user experiences. I am always eager to learn new technologies and programming languages to expand my skill set and become a better developer. I am excited to continue my journey in the tech industry and work with like-minded individuals to create innovative solutions that make a difference. 😎
+## As a Backend Developer with a strong passion for coding and a relentless drive to excel in my field. My journey in Backend Developing has equipped me with a robust foundation in web development, and I'm continuously seeking opportunities to further sharpen my skills. 😎
 
 
 ## 💻 Languages and tools 💻
