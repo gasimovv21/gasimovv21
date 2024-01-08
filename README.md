@@ -1,4 +1,4 @@
-[![Header](https://github.com/gasimovv21/gasimovv21/blob/main/assets/header.jpg)](https://github.com/gasimovv21)
+//[![Header](https://github.com/gasimovv21/gasimovv21/blob/main/assets/header.jpg)](https://github.com/gasimovv21)
 
 ## As a Backend Developer with a strong passion for coding and a relentless drive to excel in my field. My journey in Backend Developing has equipped me with a robust foundation in web development, and I'm continuously seeking opportunities to further sharpen my skills. 😎
 
